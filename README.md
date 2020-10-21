@@ -20,7 +20,7 @@ $ vendor/bin/phpunit
 
 ### Hasil yang tampil
 
-![gambar_hasil]()
+![gambar_hasil](<https://github.com/mdien/laravel-api-testing/blob/master/image/Screenshot%20(453).png>)
 
 ### Todos
 
